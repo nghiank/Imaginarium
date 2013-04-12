@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ImaginariumViewController viewDidLoad]:ImaginariumViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.scrollView">
+            </PersistentString>
+            <PersistentString
+               value = "rectMake">
+            </PersistentString>
+            <PersistentString
+               value = "[self.imageView setFrame]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ImaginariumViewController scrollView]:ImaginariumViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
